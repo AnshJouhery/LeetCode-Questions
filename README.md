@@ -106,7 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/0948-sort-an-array) |
-## BoyerâMoore Majority Vote Algorithm
+## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/0229-majority-element-ii) |
