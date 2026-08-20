@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/0078-subsets) |
 | [0455-assign-cookies](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/0455-assign-cookies) |
+| [1217-relative-sort-array](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/1217-relative-sort-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -28,8 +29,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/0455-assign-cookies) |
+| [1217-relative-sort-array](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/1217-relative-sort-array) |
 ## Quicksort
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/0455-assign-cookies) |
+| [1217-relative-sort-array](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/1217-relative-sort-array) |
+## Hash Table
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/1217-relative-sort-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/1217-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/1217-relative-sort-array) |
 <!---LeetCode Topics End-->
