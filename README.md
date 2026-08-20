@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/0078-subsets) |
+| [0229-majority-element-ii](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0948-sort-an-array](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/0948-sort-an-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0948-sort-an-array](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/1137-height-checker) |
@@ -52,11 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/0202-happy-number) |
+| [0229-majority-element-ii](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [1217-relative-sort-array](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/1217-relative-sort-array) |
 | [4107-find-missing-elements](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/4107-find-missing-elements) |
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [0948-sort-an-array](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/1217-relative-sort-array) |
@@ -102,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/0948-sort-an-array) |
+## BoyerâMoore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
