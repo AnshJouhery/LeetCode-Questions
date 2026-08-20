@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/0078-subsets) |
 | [0455-assign-cookies](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [1217-relative-sort-array](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/1217-relative-sort-array) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -30,11 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [1217-relative-sort-array](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/1217-relative-sort-array) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 ## Quicksort
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [1217-relative-sort-array](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/1217-relative-sort-array) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 ## Hash Table
 |  |
 | ------- |
