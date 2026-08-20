@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/0455-assign-cookies) |
 ## Greedy
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/0202-happy-number) |
 | [1217-relative-sort-array](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/1217-relative-sort-array) |
 | [4107-find-missing-elements](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/4107-find-missing-elements) |
 ## Counting Sort
@@ -71,5 +73,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/AnshJouhery/LeetCode-Questions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
